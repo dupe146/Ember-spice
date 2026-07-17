@@ -149,8 +149,8 @@ swallows: [
   // },
   {
     id: 12, category: "Drinks",
-    name: "Cocktails",
-    desc: "Iced fruit cocktails made fresh daily",
+    name: "Mai Tai,Classic Mojito, Dragon Fruit Mojito",
+    desc: "Featuring our Mai Tai, Classic Mojito, and Dragon Fruit Mojito—a colorful trio of handcrafted favorites.",
     price: 4500, emoji: "🍹", tag: "house special", time: "5 min",
     image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=600&q=80"
   },
